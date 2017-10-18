@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RelativeLayoutMaterial</string>
+    <string name="btnBuy">Käuflich Erwerben</string>
+    <string name="btnReservation">Zurückbehalten</string>
+    <string name="txvDateVisit">Besuchdatum</string>
+    <string name="txvMonument">Kathedrale</string>
+    <string name="txvTypeVisit">Eingabetyp</string>
+    <string name="contentImgCity">Kathedrale von Malaga</string>
+    <string name="contentImgFav">Meine Favoriten</string>
+</resources>

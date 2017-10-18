@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RelativeLayoutMaterial</string>
+    <string name="txvMonument">Catedral</string>
+    <string name="txvDateVisit">Fecha visita</string>
+    <string name="txvTypeVisit">Tipo entrada</string>
+    <string name="btnReservation">Reservar</string>
+    <string name="btnBuy">Comprar</string>
+    <string name="contentImgCity">Catedral de Málaga</string>
+    <string name="contentImgFav">Favoritos</string>
+</resources>

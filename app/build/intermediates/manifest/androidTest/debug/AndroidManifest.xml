@@ -13,7 +13,7 @@
         android:label="Tests for com.example.usuario.relativelayoutmaterial"
         android:targetPackage="com.example.usuario.relativelayoutmaterial" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

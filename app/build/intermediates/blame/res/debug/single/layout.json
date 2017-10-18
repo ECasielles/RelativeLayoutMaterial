@@ -12,6 +12,10 @@
         "source": "/home/usuario/.android/build-cache/e5729d95bbae6adf4568869d1b1fa3e64172b10b/output/res/layout/notification_action.xml"
     },
     {
+        "merged": "/home/usuario/AndroidStudioProjects/RelativeLayoutMaterial/app/build/intermediates/res/merged/debug/layout/activity_main_relative.xml",
+        "source": "/home/usuario/AndroidStudioProjects/RelativeLayoutMaterial/app/src/main/res/layout/activity_main_relative.xml"
+    },
+    {
         "merged": "/home/usuario/AndroidStudioProjects/RelativeLayoutMaterial/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/home/usuario/.android/build-cache/e5729d95bbae6adf4568869d1b1fa3e64172b10b/output/res/layout/abc_screen_toolbar.xml"
     },
@@ -42,6 +46,10 @@
     {
         "merged": "/home/usuario/AndroidStudioProjects/RelativeLayoutMaterial/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/usuario/.android/build-cache/e5729d95bbae6adf4568869d1b1fa3e64172b10b/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/usuario/AndroidStudioProjects/RelativeLayoutMaterial/app/build/intermediates/res/merged/debug/layout/activity_main_constraint.xml",
+        "source": "/home/usuario/AndroidStudioProjects/RelativeLayoutMaterial/app/src/main/res/layout/activity_main_constraint.xml"
     },
     {
         "merged": "/home/usuario/AndroidStudioProjects/RelativeLayoutMaterial/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
